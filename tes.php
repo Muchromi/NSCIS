@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>awal</title>
+    <title>Ngoding Study Club</title>
 </head>
 <body>
-    <h1>dulu begi</h1>
-    <h2>sekarang begitu</h2>
-    <h3>Gtu aja terus dd</h3>
+    <h1>Selamat Datang Di NSC</h1>
 </body>
 </html>
